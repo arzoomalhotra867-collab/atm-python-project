@@ -1,0 +1,18 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Local MySQL credentials — never commit real passwords
+db_config.py
+
+# OS / editor clutter
+.vscode/
+.DS_Store
+
+# Packaged project archive (not source)
+atm_project.zip
