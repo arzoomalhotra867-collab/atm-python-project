@@ -13,6 +13,7 @@ Each banking function opens as its own window (like the report figures),
 launched from an ATM Dashboard menu after login.
 
 Run with:
+
     python atm_app.py
 
 Requires:
